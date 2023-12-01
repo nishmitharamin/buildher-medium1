@@ -1,0 +1,7 @@
+1.Counting Occurrences:Count the occurrences of each element in the input array nums using the Counter class from the collections module. The result is a dictionary where the keys represent elements in nums, and the values represent their respective counts.
+2.Calculating Threshold:Calculate the threshold for considering an element as a majority element.
+3.Filtering Majority Elements:Make a list called result that includes elements appearing more than the calculated threshold. Using a list comprehension, iterate through the counted elements, adding each element to the result list if its count exceeds the threshold.
+4. Return Result:Return the list of majority elements as the final result.
+
+Time Complexity: O(n)
+Space Complexity: O(k)
